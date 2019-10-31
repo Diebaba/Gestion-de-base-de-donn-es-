@@ -1,0 +1,48 @@
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\bin\Debug\Amira.exe.config
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\bin\Debug\Amira.exe
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\bin\Debug\Amira.pdb
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\bin\Debug\MySql.Data.xml
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.Accueil.resources
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.Consultation.resources
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.Form1.resources
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.GestionPatient.resources
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.GestionPersonnel.resources
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.Properties.Resources.resources
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.Statistiques.resources
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.csproj.CopyComplete
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.exe
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.pdb
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\bin\Debug\CircularProgressBar.dll
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\bin\Debug\WinFormAnimation.dll
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.RegexUtilities.resources
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.ListeConsultation.resources
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.ListePersonnel.resources
+C:\Users\lenovo\Desktop\PFC 2019\Amira\Amira\obj\Debug\Amira.ListePatients.resources
+C:\Users\lenovo\Desktop\Amira\Amira\bin\Debug\Amira.exe.config
+C:\Users\lenovo\Desktop\Amira\Amira\bin\Debug\Amira.exe
+C:\Users\lenovo\Desktop\Amira\Amira\bin\Debug\Amira.pdb
+C:\Users\lenovo\Desktop\Amira\Amira\bin\Debug\CircularProgressBar.dll
+C:\Users\lenovo\Desktop\Amira\Amira\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Desktop\Amira\Amira\bin\Debug\WinFormAnimation.dll
+C:\Users\lenovo\Desktop\Amira\Amira\bin\Debug\MySql.Data.xml
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.Accueil.resources
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.Consultation.resources
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.Form1.resources
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.GestionPatient.resources
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.GestionPersonnel.resources
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.ListeConsultation.resources
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.ListePatients.resources
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.ListePersonnel.resources
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.Statistiques.resources
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.exe
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.pdb
+C:\Users\lenovo\Desktop\Amira\Amira\obj\Debug\Amira.NouveauCompte.resources
